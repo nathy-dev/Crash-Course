@@ -1,3 +1,8 @@
+# UPDATE 2022
+This repository is exactly as it was for the competition. It is messy and it is rudimentary but it was my first taste of web dev and it won so I'm very happpy with it as it is what got me hooked. 
+
+To play, just download and copy the index.html path into your browser.
+
 # Hack Day Team
 * nathan
 
